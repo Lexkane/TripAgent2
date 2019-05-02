@@ -1,0 +1,16 @@
+# Arhives
+*.tar
+*.zip
+
+# Output of the go coverage tool
+*.out
+
+vendor/
+
+# IDEs:
+.idea/
+
+# logs:
+*.log
+*.log.*
+

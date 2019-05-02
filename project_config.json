@@ -1,0 +1,15 @@
+{
+  "ListenURL": ":8080",
+  "APIVersion": "/api/v1",
+  "LogFilePath": "project_log_file.log",
+  "RedisAddr": "localhost:6379",
+  "LogLevel": "error",
+  "PgHost": "localhost",
+  "PgPort": "5432",
+  "PgUser":"postgres",
+  "PgPassword":"postgres",
+  "PgName":"travel_test",
+  "JSONApi": "https://api.myjson.com/bins/x7rfk"
+}
+
+
